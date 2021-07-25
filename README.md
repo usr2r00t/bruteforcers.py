@@ -1,4 +1,4 @@
-# bruteforcers (not finished but will be ready soon!!)
+# Bruteforcers (not finished but will be ready soon!!)
 
 This is my differents homemade bruteforcers coded in Python
 
