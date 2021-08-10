@@ -24,3 +24,6 @@ Usage:
 <pre>
 python3 pinbrute.py 
 </pre>
+
+
+# New update soon !
